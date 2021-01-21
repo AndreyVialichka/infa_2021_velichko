@@ -1,1 +1,2 @@
-# infa_2021_velichko
+# infa_2021_velichko 
+git check
